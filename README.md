@@ -9,7 +9,7 @@ python3 SRGAN.py
 ```
 It take 1500 examples for training, one can change it to any value under 202k
 
-#Test Network
+# Test Network
 For testing the network, just run :
 
 ```
