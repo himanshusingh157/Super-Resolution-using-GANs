@@ -7,7 +7,8 @@ Once the dataset is downloaded and moved, run:
 ```
 python3 SRGAN.py 
 ```
-It take 5000 examples for training, one can change it to any value under 202k\\
+It take 5000 examples for training, one can change it to any value under 202k
+
 Depending upon GPU, one can vary batch size. Since I had single GPU. I trained it on batch size of 16
 
 # Test Network
